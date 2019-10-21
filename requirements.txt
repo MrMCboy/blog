@@ -23,4 +23,4 @@ sqlcmd==0.7.1
 Twisted==17.5.0
 urllib3==1.21.1
 virtualenv==15.1.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
