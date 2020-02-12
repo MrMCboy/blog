@@ -1,5 +1,5 @@
 attrs==17.2.0
-Django==1.8.18
+Django==1.11.28
 django-contrib-comments==1.8.0
 django-taggit==0.22.1
 enum==0.4.6
