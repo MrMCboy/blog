@@ -4,7 +4,7 @@ django-contrib-comments==1.8.0
 django-taggit==0.22.1
 enum==0.4.6
 grizzled-python==1.0.1
-lxml==3.8.0
+lxml==4.6.3
 matplotlib==2.0.2
 MySQL-python==1.2.5
 numpy==1.13.1+mkl
