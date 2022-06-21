@@ -7,7 +7,7 @@ grizzled-python==1.0.1
 lxml==3.8.0
 matplotlib==2.0.2
 MySQL-python==1.2.5
-numpy==1.13.1+mkl
+numpy==1.22.0rc1
 olefile==0.44
 Pillow==4.2.1
 prettytable==0.7.2
